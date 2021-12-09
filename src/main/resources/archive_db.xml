@@ -1,0 +1,38 @@
+<archive_db>
+
+    <students>
+        <student id="0">
+            <name>Anastasia</name>
+            <surname>Golyuk</surname>
+            <university>BSUIR</university>
+            <speciality>POIT</speciality>
+            <cource_number>3</cource_number>
+            <average_score>10.0</average_score>
+        </student>
+        <student id="1">
+            <name>Ivan</name>
+            <surname>Kozyrev</surname>
+            <university>BSUIR</university>
+            <speciality>POIT</speciality>
+            <cource_number>3</cource_number>
+            <average_score>10.0</average_score>
+        </student>
+        <student id="2">
+            <name>Gleb</name>
+            <surname>Sorkin</surname>
+            <university>BSUIR</university>
+            <speciality>POIT</speciality>
+            <cource_number>3</cource_number>
+            <average_score>9.0</average_score>
+        </student>
+        <student id="3">
+            <name>Kirill</name>
+            <surname>Kader</surname>
+            <university>BSUIR</university>
+            <speciality>POIT</speciality>
+            <cource_number>3</cource_number>
+            <average_score>9.0</average_score>
+        </student>
+    </students>
+
+</archive_db>
